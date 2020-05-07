@@ -25,5 +25,6 @@ public class tesTJedis {
         System.out.println(sadd);
         //关闭连接对象
         jedis.close();
+        //在new_branch添加的代码
     }
 }
