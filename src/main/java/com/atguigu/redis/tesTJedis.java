@@ -26,5 +26,6 @@ public class tesTJedis {
         //关闭连接对象
         jedis.close();
         //master做的修改
+        //在new_branch添加的代码
     }
 }
